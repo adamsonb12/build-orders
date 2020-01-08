@@ -21,14 +21,14 @@ Notes to Remember
 3. 1 to fetch boar
 4. 1 more to sheep/boar
 5. 4 to berries (first one builds two houses first)
-6. 2 to board => transition 2 to farms
-7. rest to wood (build second lumber camp)
+6. 2 to boar => transition 2 from under the town center to farms
+7. Rest to wood (Up to 22 pop)(build second lumber camp when 5 villagers are already working your first)
 8. Research Loom
 9. Click Feudal
 
 #### TRANSITION TO FEUDAL
 
-1. Move two from boar/sheep to wood so 5 and 5 are on each lumber camp (5 on sheep, 10 on wood, 4 on berries, 2 on farms)
+1. Move three from boar/sheep to wood so 5 and 5 are on each lumber camp (5 on sheep, 10 on wood, 4 on berries, 2 on farms)
 2. Build Barracks & house
 
 #### FEUDAL AGE
