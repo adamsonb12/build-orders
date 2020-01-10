@@ -7,4 +7,5 @@ Special thank you to Cicero and ZeroEmpires for providing me with my main source
 ## Build Orders
 
  - [Scouts to Archers](ScoutsArchers.md)
+ - [Archers](Archers.md)
 
