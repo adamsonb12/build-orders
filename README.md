@@ -8,4 +8,5 @@ Special thank you to Cicero and ZeroEmpires for providing me with my main source
 
  - [Scouts to Archers](ScoutsArchers.md)
  - [Archers](Archers.md)
+ - [Fast Castle Knights](FastCastleKnights.md)
 
