@@ -8,7 +8,7 @@ title: Man at Arms to Archers
 
 Notes to Remember
 - 21 villagers in dark age
-
+- Use to delay opponent in order to mass archers
 
 ## DARK AGE
 1. 6 to sheep
@@ -27,16 +27,16 @@ Notes to Remember
 
 ## FEUDAL AGE
 1. Research Double Bit Axe
-2. Rsearch Man at Arms
+2. Research Man at Arms
 3. Sheep herders to more farms (4 farms) => rest go to wood
 4. Send vills to wood until 12 are on wood
 5. Send vills to gold until 8 are on gold
 6. Build 2 ranges
 7. Build blacksmith => research fletching
-8. Produce Archers continuosly
+8. Mass Archers (constant production is key)
 9. After 8 vills on gold => rest to farms
 10. Move berry pickers to farms
-(18 farms)
+    - 18 farms
 11. Research wheelbarrow
 12. Click Castle 
 

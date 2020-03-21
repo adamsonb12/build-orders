@@ -6,8 +6,15 @@ Special thank you to Cicero and ZeroEmpires for providing me with my main source
 
 ## Build Orders
 
- - [Scouts to Archers](ScoutsArchers.md)
  - [Archers](Archers.md)
+ - [Fast Castle into Boom](FastCastleBoom.md)
  - [Fast Castle Knights](FastCastleKnights.md)
+ - [Goth Militia Drush](GothMilitiaDrush.md)
  - [Man At Arms to Archers](ManAtArmsArchers.md)
+ - [Mongol Scouts](MongolScouts.md)
+ - [Scouts to Archers](ScoutsArchers.md)
+ - [Scouts to Skirms](ScoutsSkirms.md)
+ - [Trush](Trush.md)
+
+ - [More Builds on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1489568470)
 
